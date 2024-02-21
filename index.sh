@@ -1,2 +1,3 @@
 #!bin/bash
-echo('hello shell scripting)
+echo('hello shell scripting')
+echo('ethical hacking')
